@@ -1,8 +1,7 @@
-
 quotes-server
 ==================
 
-#### Creating/Deploying the Quotes server (nodejs/express/mongoose) on Heroku.
+#### HowTo for creating/deploying a Quotes server (nodejs/express/mongoose) on Heroku.
 
 This is a companion server for the jsframework-talk discussed at:
 https://github.com/gregmercer/jsframework-talks
