@@ -20,6 +20,7 @@ Create the package.json file
 npm view express version
 npm view mongoose version
 create/edit package.json
+be sure to add/change the versions used in package.json to match what you have installed
 ```
 
 Create the quotes-server Heroku app
