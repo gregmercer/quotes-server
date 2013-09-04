@@ -106,8 +106,8 @@ if everything went well, the main page should now read:
 'Hello World from Quotes Server with data provider'
 ```
 
-Edit the next version the app, and the data provider
-We'll be adding code for creating a quote
+Edit the next version the app, and the data provider.
+We'll be adding code for creating a quote.
 ```
 edit app.js (copy app-2.js over app.js)
 edit quoteProvider.js (copy quoteProvider-2.js over quoteProvider.js)
@@ -142,8 +142,8 @@ http://quotes-server.herokuapp.com/quotes
 add a couple more quotes and check that all of the list now
 ```
 
-Edit the next version the app, and the data provider
-We'll be adding code for get and update a quote by id
+Edit the next version the app, and the data provider.
+We'll be adding code for get and update a quote by id.
 ```
 edit app.js (copy app-3.js over app.js)
 edit quoteProvider.js (copy quoteProvider-3.js over quoteProvider.js)
@@ -188,8 +188,8 @@ check if the new quote was updated
 http://quotes-server.herokuapp.com/quotes
 ```
 
-Edit the next version the app, and the data provider
-We'll be adding code for delete a quote by id
+Edit the next version the app, and the data provider.
+We'll be adding code for delete a quote by id.
 ```
 edit app.js (copy app-4.js over app.js)
 edit quoteProvider.js (copy quoteProvider-4.js over quoteProvider.js)
