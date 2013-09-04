@@ -3,7 +3,7 @@ quotes-server
 
 #### HowTo for creating/deploying a Quotes server (nodejs/express/mongoose) on Heroku.
 
-This is a companion server for the jsframework-talk discussed at:
+This is a companion server for the jsframework-talk discussed at:  
 https://github.com/gregmercer/jsframework-talks
 
 Create a folder for the Quotes server
@@ -107,7 +107,7 @@ if everything went well, the main page should now read:
 'Hello World from Quotes Server with data provider'
 ```
 
-Edit the next version the app, and the data provider.
+Edit the next version the app, and the data provider.  
 We'll be adding code for creating a quote.
 ```
 edit app.js (copy app-2.js over app.js)
@@ -143,7 +143,7 @@ http://quotes-server.herokuapp.com/quotes
 add a couple more quotes and check that all of the list now
 ```
 
-Edit the next version the app, and the data provider.
+Edit the next version the app, and the data provider.  
 We'll be adding code for get and update a quote by id.
 ```
 edit app.js (copy app-3.js over app.js)
@@ -189,7 +189,7 @@ check if the new quote was updated
 http://quotes-server.herokuapp.com/quotes
 ```
 
-Edit the next version the app, and the data provider.
+Edit the next version the app, and the data provider.  
 We'll be adding code for delete a quote by id.
 ```
 edit app.js (copy app-4.js over app.js)
